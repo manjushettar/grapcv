@@ -1,8 +1,8 @@
 ### ui-less opencv image editing 
-
-g -> grayScale
-b -> gaussianBlur
-i -> invert
+### straight cv::Mat adjustments, no cv method bs (although they probably beat me on perf)
+g -> grayScale/
+b -> gaussianBlur/
+i -> invert/
 q -> quit
 
 
